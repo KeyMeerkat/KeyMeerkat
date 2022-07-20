@@ -1,4 +1,6 @@
 ![KeyMeerkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeyMeerkat&show_icons=true&theme=radical)
+<br>
+![KeyMeerkat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeyMeerkat&show_icons=true&theme=radical)
 
 - 👋 Hi, I’m @KeyMeerkat
 - 👀 I’m interested in programming, software develpment and robotics.
